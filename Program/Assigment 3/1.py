@@ -1,0 +1,5 @@
+print('MySrig')
+print("MySirg\nEducation Services")
+print('"MySirG"')
+print("Happy Teachers's Day")
+print('\\n')
